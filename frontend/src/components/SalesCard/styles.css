@@ -3,8 +3,8 @@
     border-radius: 10px;
     padding: 30px 10px;
   }
-  
-   .dsmeta-sales-title {
+ 
+  .dsmeta-sales-title {
     color: #676fff;
     font-size: 24px;
     margin-bottom: 20px;
@@ -63,7 +63,7 @@
       display: flex;
       justify-content: center;
   }
-  
+ 
   .show576 {
       display: none;
   }
