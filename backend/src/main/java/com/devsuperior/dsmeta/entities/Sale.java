@@ -1,4 +1,4 @@
-package entities;
+package com.devsuperior.dsmeta.entities;
 
 import javax.persistence.*;
 import java.time.LocalDate;
