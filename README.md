@@ -10,7 +10,7 @@ Front-end foi usado:<br></br>
 Além de estar implantado no Netlify<br></br>
 
 Back-end foi usado: <br></br>
-◾ Banco de Dados<br></br>
+◾ Banco de Dados com ORM <br></br>
 ◾ DataBase seed<br></br>
 ◾ API REST<br></br>
 ◾ Integração com SMS via Twilio<br></br>
