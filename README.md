@@ -20,3 +20,5 @@ Para integração e implantação:
 ◾ React Hook useEffect
 ◾ Parâmetros de consulta
 ◾ Implantação na nuvem
+
+Link: https://dsmeta-bortoliana.netlify.app/
